@@ -1,0 +1,6 @@
+{
+	"radarr_url": "<address>:<port>",
+	"radarr_api_key": "<key>",
+	"qualityProfileId": "<id>",
+	"rootFolderPath": "<root_media_path>"
+}
